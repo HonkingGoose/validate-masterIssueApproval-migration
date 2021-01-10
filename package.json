@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/HonkingGoose/validate-masterIssueApproval-migration#readme",
   "devDependencies": {
-    "prettier": "^2.2.0"
+    "prettier": "2.2.0"
   }
 }
